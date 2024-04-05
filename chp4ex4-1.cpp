@@ -1,0 +1,1 @@
+max(s.name.size(), static_cast<std::string::size_type>(maxlen));
